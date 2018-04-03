@@ -1,5 +1,0 @@
-<style>
-
-.shiftnav-wrap {min-height: 100vh;}
-body, #al-blog-load-content .comment-list article, #al-blog-load-content .comment-list .pingback, #al-blog-load-content .comment-list .trackback, #al-blog-load-content .toggle .header, #al-blog-load-content .toggle .content, #al-pf-load-content .toggle .header, #al-pf-load-content .toggle .content, #al-blog-load-content .callout-box, #al-pf-load-content .callout-box, #al-blog-load-content .alert-box, #al-pf-load-content .alert-box, #al-blog-load-content .percent-bar, #al-pf-load-content .percent-bar, #al-blog-load-content .pricing-table, #al-pf-load-content .pricing-table, #al-blog-load-content .tab-content-navi li a, #al-pf-load-content .tab-content-navi li a, #al-blog-load-content .widget ul li a, #al-pf-load-content .widget ul li a, .bx-wrapper .bx-pager.bx-default-pager a, .owl-theme .owl-controls .owl-page span {    background-color: #1c1c1c !important;}
-</style>

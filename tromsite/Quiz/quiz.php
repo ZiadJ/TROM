@@ -36,5 +36,5 @@
 
   // If, for some reason 'quiz id' is processed somewhere else on the code,
   // make sure to use htmlspecialchars before displaying its contents to the DOM.
-  echo '<input type="hidden" id="quizId" value="'. htmlspecialchars($id) .'">';
+  echo '<input id="quizId" type="hidden" value="'. htmlspecialchars($id) .'">';
 ?>

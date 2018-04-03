@@ -1,0 +1,13 @@
+<style>
+._df_thumb {
+      border: 0;
+    width: 100%;
+    height: auto;
+    padding-bottom: 140%;
+    text-align: center;
+perspective: 6000px;
+    margin: 0px 0px 0px;
+}
+
+._df_thumb ._df_book-title {display: none !important;}
+</style>
